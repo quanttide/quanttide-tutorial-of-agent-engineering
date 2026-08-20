@@ -6,6 +6,6 @@ QuantTide Tutorial of Agent Engineering
 
 ## 目录
 
-- [harness/](harness/) — DeepSeek Harness 主题教程
-  - [约束工程](harness/index.md) — 用结构性约束划定智能体行为边界
+- [harness/](harness/)：DeepSeek Harness 主题教程。
+  - [约束工程](harness/index.md)：用结构性约束划定智能体行为边界。
 
