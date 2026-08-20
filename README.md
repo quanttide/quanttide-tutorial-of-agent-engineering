@@ -8,6 +8,4 @@ QuantTide Tutorial of Agent Engineering
 
 - [harness/](harness/)：DeepSeek Harness 主题教程。
   - [约束工程](harness/index.md)：用结构性约束划定智能体行为边界。
-- [skills/](skills/)：可安装技能。
-  - [docs-format](skills/docs-format/SKILL.md)：文档格式技能，依据《量潮科技文档格式章程》。
 
